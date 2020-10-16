@@ -1,0 +1,552 @@
+[
+  {
+    "category": "Mythology",
+    "difficulty": "hard",
+    "question": "What was the punishment for Sysiphus's craftiness?",
+    "correct": "Cursed to roll a boulder up a hill for eternity.",
+    "incorrect": [
+      "Tied to a boulder for eternity, being pecked by birds.",
+      "Standing in a lake filled with water he could not drink.",
+      "To fell a tree that regenerated after every axe swing."
+    ]
+  },
+  {
+    "category": "Entertainment: Music",
+    "difficulty": "medium",
+    "question": "Which French duo had UK hits in 1998 with the songs 'Sexy Boy', 'Kelly Watch The Stars' & 'All I Need'?",
+    "correct": "Air",
+    "incorrect": [
+      "Fire",
+      "Earth",
+      "Water"
+    ]
+  },
+  {
+    "category": "Entertainment: Music",
+    "difficulty": "medium",
+    "question": "What was the title of ABBA`s first UK hit single?",
+    "correct": "Waterloo",
+    "incorrect": [
+      "Mamma Mia",
+      "Fernando",
+      "Dancing Queen"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which of these is NOT a city in Saudi Arabia?",
+    "correct": "Dubai",
+    "incorrect": [
+      "Riyadh",
+      "Mecca",
+      "Medina"
+    ]
+  },
+  {
+    "category": "Entertainment: Music",
+    "difficulty": "easy",
+    "question": "Which country does the band Rammstein hail from?",
+    "correct": "Germany",
+    "incorrect": [
+      "Austria",
+      "Armenia",
+      "Belgium"
+    ]
+  },
+  {
+    "category": "Entertainment: Comics",
+    "difficulty": "easy",
+    "question": "Who is the creator of the comic series \"The Walking Dead\"?",
+    "correct": "Robert Kirkman",
+    "incorrect": [
+      "Stan Lee",
+      "Malcolm Wheeler-Nicholson",
+      "Robert Crumb"
+    ]
+  },
+  {
+    "category": "Entertainment: Film",
+    "difficulty": "medium",
+    "question": "What is the name of the robot in the 1951 science fiction film classic 'The Day the Earth Stood Still'?",
+    "correct": "Gort",
+    "incorrect": [
+      "Robby",
+      "Colossus",
+      "Box"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What does the \"G\" mean in \"G-Man\"?",
+    "correct": "Government",
+    "incorrect": [
+      "Going",
+      "Ghost",
+      "Geronimo"
+    ]
+  },
+  {
+    "category": "Entertainment: Books",
+    "difficulty": "medium",
+    "question": "What was the pen name of novelist, Mary Ann Evans?",
+    "correct": "George Eliot",
+    "incorrect": [
+      "George Orwell",
+      "George Bernard Shaw",
+      "George Saunders"
+    ]
+  },
+  {
+    "category": "Mythology",
+    "difficulty": "medium",
+    "question": "Which of the following Mesopotamian mythological figures was NOT a deity?",
+    "correct": "Enkidu",
+    "incorrect": [
+      "Enki",
+      "Enlil",
+      "Enkimdu"
+    ]
+  },
+  {
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Which of the following ancient peoples was NOT classified as Hellenic (Greek)?",
+    "correct": "Illyrians",
+    "incorrect": [
+      "Dorians",
+      "Achaeans",
+      "Ionians"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which of the following former Yugoslavian states is landlocked?",
+    "correct": "Serbia",
+    "incorrect": [
+      "Bosnia and Herzegovina",
+      "Montenegro",
+      "Croatia"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "difficulty": "medium",
+    "question": "How many officially recognized dwarf planets in the solar system are named after Polynesian deities?",
+    "correct": "2",
+    "incorrect": [
+      "0",
+      "1",
+      "5"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "difficulty": "medium",
+    "question": "In which order do you need to hit some Deku Scrubs to open the first boss door in \"Ocarina of Time\"?",
+    "correct": "2, 3, 1",
+    "incorrect": [
+      "1, 2, 3",
+      "1, 3, 2",
+      "2, 1, 3"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "The Rio 2016 Summer Olympics held it's closing ceremony on what date?",
+    "correct": "August 21",
+    "incorrect": [
+      "August 23",
+      "August 19",
+      "August 17"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "The World Health Organization headquarters is located in which European country?",
+    "correct": "Switzerland",
+    "incorrect": [
+      "United Kingdom",
+      "France",
+      "Belgium"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "difficulty": "easy",
+    "question": "How many bones are in the human body?",
+    "correct": "206",
+    "incorrect": [
+      "203",
+      "209",
+      "200"
+    ]
+  },
+  {
+    "category": "History",
+    "difficulty": "medium",
+    "question": "What year did the Battle of Agincourt take place?",
+    "correct": "1415",
+    "incorrect": [
+      "1463",
+      "1401",
+      "1422"
+    ]
+  },
+  {
+    "category": "Entertainment: Film",
+    "difficulty": "medium",
+    "question": "In the 2010 Nightmare on Elm Street reboot, who played Freddy Kruger?",
+    "correct": "Jackie Earle Haley",
+    "incorrect": [
+      "Tyler Mane",
+      "Derek Mears",
+      "Gunnar Hansen"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "difficulty": "easy",
+    "question": "Who is the main protagonist of Dead Space?",
+    "correct": "Isaac Clarke",
+    "incorrect": [
+      "Commander Shepard",
+      "Gordon Freeman",
+      "Master Chief"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "How long did it take the motorized window washers of the original World Trade Center to clean the entire exterior of the building?",
+    "correct": "1 Month",
+    "incorrect": [
+      "3 Weeks",
+      "1 Week",
+      "2 Months"
+    ]
+  },
+  {
+    "category": "Entertainment: Film",
+    "difficulty": "medium",
+    "question": "What is the correct phrase for the Latin saying \"Romanes Eunt Domus\" in Monty Python's Life of Brian?",
+    "correct": "Romani Ite Domum",
+    "incorrect": [
+      "Romans Go Home",
+      "Roxani Ite Domum",
+      "Tomate Ite Domum"
+    ]
+  },
+  {
+    "category": "Entertainment: Japanese Anime & Manga",
+    "difficulty": "easy",
+    "question": "In the anime Seven Deadly Sins what is the name of one of the sins?",
+    "correct": "Diane",
+    "incorrect": [
+      "Sakura",
+      "Ayano",
+      "Sheska"
+    ]
+  },
+  {
+    "category": "Entertainment: Film",
+    "difficulty": "easy",
+    "question": "In the movie \"Spaceballs\", what are the Spaceballs attempting to steal from Planet Druidia?",
+    "correct": "Air",
+    "incorrect": [
+      "The Schwartz",
+      "Princess Lonestar",
+      "Meatballs"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "difficulty": "medium",
+    "question": "Which Game Development company made No Man's Sky?",
+    "correct": "Hello Games",
+    "incorrect": [
+      "Dovetail Games",
+      "Valve",
+      "Blizzard Entertainment"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "difficulty": "medium",
+    "question": "What was the first .hack game?",
+    "correct": ".hack//Infection",
+    "incorrect": [
+      ".hack//Zero",
+      ".hack//Sign",
+      ".hack//Liminality"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which Canadian province has Charlottetown as its capital?",
+    "correct": "Prince Edward Island",
+    "incorrect": [
+      "Saskachewan",
+      "Northwest Terrirories",
+      "Ontario"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which city did the former NHL team \"The Nordiques\" originiate from?",
+    "correct": "Quebec City",
+    "incorrect": [
+      "Houston",
+      "Montreal",
+      "New York"
+    ]
+  },
+  {
+    "category": "Entertainment: Music",
+    "difficulty": "easy",
+    "question": "What album did Bon Iver release in 2016?",
+    "correct": "22, A Million",
+    "incorrect": [
+      "Bon Iver, Bon Iver",
+      "Blood Bank EP",
+      "For Emma, Forever Ago"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "difficulty": "medium",
+    "question": "Which country was Eliza \"Ash\" Cohen from \"Tom Clancy's Rainbow Six Siege\" born in?",
+    "correct": "Israel",
+    "incorrect": [
+      "United States of America",
+      "Mexico",
+      "Canada"
+    ]
+  },
+  {
+    "category": "Entertainment: Film",
+    "difficulty": "easy",
+    "question": "In the 1995 film \"Balto\", who are Steele's accomplices?",
+    "correct": "Kaltag, Nikki, and Star",
+    "incorrect": [
+      "Dusty, Kirby, and Ralph",
+      "Nuk, Yak, and Sumac",
+      "Jenna, Sylvie, and Dixie"
+    ]
+  },
+  {
+    "category": "Celebrities",
+    "difficulty": "medium",
+    "question": "Who out of these actresses is the youngest?",
+    "correct": "Kiernan Shipka",
+    "incorrect": [
+      "Ariel Winter",
+      "Emma Watson",
+      "Bonnie Wright"
+    ]
+  },
+  {
+    "category": "Entertainment: Television",
+    "difficulty": "medium",
+    "question": "In \"Star Trek\", what is the Klingon death ritual?",
+    "correct": "Look into sky and yell loudly in mourning.",
+    "incorrect": [
+      "Kiss the jagged forehead before burial.",
+      "Shoot into space in a torpedo casing.",
+      "Split the deceased's earnings between bloodkin."
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "difficulty": "medium",
+    "question": "What is the name of the common, gun-toting enemies of the \"Oddworld\" video game series?",
+    "correct": "Sligs",
+    "incorrect": [
+      "Scrabs",
+      "Slogs",
+      "Glukkons"
+    ]
+  },
+  {
+    "category": "History",
+    "difficulty": "medium",
+    "question": "In World War I, what was the name of the alliance of Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria?",
+    "correct": "The Central Powers",
+    "incorrect": [
+      "The Axis Powers",
+      "The Federation of Empires",
+      "Authoritarian Alliance"
+    ]
+  },
+  {
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which country was an allied power in World War II?",
+    "correct": "Soviet Union",
+    "incorrect": [
+      "Italy",
+      "Germany",
+      "Japan"
+    ]
+  },
+  {
+    "category": "Celebrities",
+    "difficulty": "easy",
+    "question": "Neil Hamburger is played by which comedian?",
+    "correct": "Gregg Turkington",
+    "incorrect": [
+      "Nathan Fielder",
+      "Tim Heidecker",
+      "Todd Glass"
+    ]
+  },
+  {
+    "category": "Entertainment: Music",
+    "difficulty": "hard",
+    "question": "What was the name of the rock band that Nobuo Uematsu formed that played songs from various Final Fantasy games?",
+    "correct": "The Black Mages",
+    "incorrect": [
+      "The Final Fantasies",
+      "The Espers",
+      "The Rock Summoners"
+    ]
+  },
+  {
+    "category": "History",
+    "difficulty": "medium",
+    "question": "What was the code name for the German invasion of the Soviet Union in WW2?",
+    "correct": "Operation Barbarossa",
+    "incorrect": [
+      "Operation Kaiserschlact",
+      "Operation Unthinkable",
+      "Operation Molotov"
+    ]
+  },
+  {
+    "category": "Entertainment: Television",
+    "difficulty": "easy",
+    "question": "What is the name of Chris's brother in \"Everybody Hates Chris\"?",
+    "correct": "Drew",
+    "incorrect": [
+      "Jerome",
+      "Greg",
+      "Joe"
+    ]
+  },
+  {
+    "category": "Entertainment: Television",
+    "difficulty": "easy",
+    "question": "On the NBC show Community, whose catch-phrase was \"Pop! Pop!\"?",
+    "correct": "Magnitude",
+    "incorrect": [
+      "Star Burns",
+      "Leonard",
+      "Senoir Chang"
+    ]
+  },
+  {
+    "category": "Entertainment: Film",
+    "difficulty": "medium",
+    "question": "Brendan Fraser starred in the following movies, except which one?",
+    "correct": "Titanic",
+    "incorrect": [
+      "Monkeybone",
+      "Encino Man",
+      "Mrs. Winterbourne"
+    ]
+  },
+  {
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Which U.S. president was said to have been too honest to lie to his father about chopping down a cherry tree?",
+    "correct": "George Washington",
+    "incorrect": [
+      "Abraham Lincoln",
+      "Thomas Jefferson",
+      "James Monroe"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Who is the author of Jurrasic Park?",
+    "correct": "Michael Crichton",
+    "incorrect": [
+      "Peter Benchley",
+      "Chuck Paluhniuk",
+      "Irvine Welsh"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which of the following blood component forms a plug at the site of injuries?",
+    "correct": "Platelets",
+    "incorrect": [
+      "Red blood cells",
+      "White blood cells",
+      "Blood plasma"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which country claims ownership of the disputed state Kosovo?",
+    "correct": "Serbia",
+    "incorrect": [
+      "Croatia",
+      "Albania",
+      "Macedonia"
+    ]
+  },
+  {
+    "category": "Celebrities",
+    "difficulty": "medium",
+    "question": "Which television show has Dan Gheesling been on?",
+    "correct": "Big Brother",
+    "incorrect": [
+      "Jeopardy",
+      "Survivor",
+      "The Bachelor"
+    ]
+  },
+  {
+    "category": "Entertainment: Film",
+    "difficulty": "medium",
+    "question": "Which of the following actors does not play a role in the movie \"The Usual Suspects?\"",
+    "correct": "Steve Buscemi",
+    "incorrect": [
+      "Kevin Spacey",
+      "Benicio Del Toro",
+      "Gabriel Byrne"
+    ]
+  },
+  {
+    "category": "Entertainment: Music",
+    "difficulty": "easy",
+    "question": "\"Grande Valse\" is a phrase from the song \"Gran Vals\". What is that song segment known as?",
+    "correct": "Nokia Tune",
+    "incorrect": [
+      "Hello Moto [Motorola Ringtone]",
+      "Droid Ringtone",
+      "Microsoft Ringtone"
+    ]
+  },
+  {
+    "category": "Entertainment: Music",
+    "difficulty": "hard",
+    "question": "Which of these artists did NOT feature in the fitfh studio album \"Humanz\" by British virtual band Gorillaz?",
+    "correct": "Snoop Dogg",
+    "incorrect": [
+      "Vince Staples",
+      "Pusha T",
+      "Danny Brown"
+    ]
+  }
+]
