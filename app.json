@@ -1,33 +1,21 @@
 {
-    "name": "SnapBreak Free",
-    "identifier": "com.toyopagroup.picaboo",
-    "sourceURL": "https://mohadu31.com/app.json",
+    "name": "è½»æ¾ç­¾æº",
+    "identifier": "xyz.yyyue.esign",
+    "sourceURL": "https://esign.yyyue.xyz/apps.json",
     "apps": [
         {
-            "name": "Photo Lab Hack",
-            "bundleIdentifier": "com.toyopagroup.picaboo",
-            "developerName": "",
-            "version": "3.10.34",
-            "versionDate": "2021-03-27",
-            "versionDescription": "🙂",
-            "downloadURL": "https://github.com/doo3n/ahmed/raw/master/ESign_3.4.0done.ipa": "",
-            "iconURL": "https://arab-crack.com/images/160285106513393487305f8990f9c0b1e.jpg",
+            "name": "è½»æ¾ç­¾-ESign",
+            "bundleIdentifier": "rl.esign.YYYSign.co",
+            "developerName": "yyy",
+            "version": "3.4.0",
+            "versionDate": "2021-04-04T22:00:00+08:00",
+            "versionDescription": "ä¿®å¤éƒ¨åˆ†ç­¾åé—®é¢˜ \nä¿®å¤æ³¨å…¥dylibé—®é¢˜\nä¿®å¤unc0verå¡9\nä¿®å¤è¯ä¹¦çŠ¶æ€æ£€æµ‹é”™è¯¯\n Fixed problems with dylib injection\nfix unc0ver crash on step 9\nfix cert status bug\n support app sources unlock",
+            "downloadURL": "https://esign.lanzous.com/iZt03nntwzc",
+            "localizedDescription": "è½»æ¾ç­¾æ˜¯ä¸€æ¬¾å…è¶Šç‹±å¯ç»™ipaç­¾åçš„å·¥å…·ï¼Œå…·æœ‰æ³¨å…¥åº“ï¼ŒåŽ»åº“ç­‰åŠŸèƒ½ã€‚",
+            "iconURL": "https://esign.yyyue.xyz/ESignLogo200.png",
             "tintColor": "018084",
-            "size": 50
-
-},
-{
-           "name": "SnapBreak23",
-            "bundleIdentifier": "com.toyopagroup.picaboo",
-            "developerName": "iOS4Me",
-            "version": "10.81.0",
-            "versionDate": "2021-03-27",
-            "versionDescription": "نسخة سناب بريك 2 شغالة بدون اي مشاكل استمتعوا",
-            "downloadURL": "https://ipadzmoha.com/Snapbreak/uploads/SnapBreak2.ipa",
-            "localizedDescription": "Snapbreak c'est gratuit développer pour modifier Snapchat by dzmohaipa",
-            "iconURL": "https://snapbreak.online/images/logo.jpeg",
-            "tintColor": "018084",
-            "size": 67000000
-        },
+            "isLanZouCloud": 1,
+            "size": 2475295
+        }
     ]
 }
