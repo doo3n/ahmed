@@ -1,8 +1,5 @@
 {
-    "name": "احمد١",
-    "identifier": "xyz.yyyue.esign",
-    "sourceURL": "https://esign.yyyue.xyz/apps.json",
-    "apps": [
+     [
         {
             "name": "احمد ٢",
             "bundleIdentifier": "rl.esign.YYYSign.co",
