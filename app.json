@@ -1,49 +1,13 @@
-{
-    "name": "轻松签源",
-    "identifier": "xyz.yyyue.esign",
-    "sourceURL": "https://esign.yyyue.xyz/apps.json",
-    "apps": [
-		{
-		    "name": "轻松签-ESign",
-		    "bundleIdentifier": "p3.xyz.yyyue.esign",
-		    "developerName": "yyy",
-		    "version": "4.4.0",
-		    "versionDate": "2022-03-12T18:00:00+08:00",
-		    "versionDescription": "超大应用签名优化\n下载管理优化\nbug修复",
-		    "downloadURL": "https://esign.lanzoub.com/iyK2m01d4nqd",
-		    "localizedDescription": "轻松签是一款免越狱可给ipa签名的工具，具有注入库，去库等功能。",
-		    "iconURL": "https://esign.yyyue.xyz/ESignLogo200.png",
-		    "tintColor": "018084",
-		    "isLanZouCloud": 1,
-		    "size": 4216246
-		},
-        {
-            "name": "轻松签-ESign",
-            "bundleIdentifier": "rl.xyz.yyyue.esign",
-            "developerName": "yyy",
-            "version": "4.3.7",
-            "versionDate": "2022-02-15T18:00:00+08:00",
-            "versionDescription": "BUG修复\n支持class dump\n支持开启文件共享\n支持直接注入deb文件\n支持自定义app桌面图标\n支持iOS15.1签名\nBUG fix\nsupport class dump \nSupport deb inject\nSupport change App Icon\nSupport iOS 15 Signature\nUntested, Feedback Problems",
-            "downloadURL": "https://esign.lanzouw.com/iVtbn004480h",
-            "localizedDescription": "轻松签是一款免越狱可给ipa签名的工具，具有注入库，去库等功能。",
-            "iconURL": "https://esign.yyyue.xyz/ESignLogo200.png",
-            "tintColor": "018084",
-            "isLanZouCloud": 1,
-            "size": 4194575
-        },
-        {
-            "name": "轻松签-ESign",
-            "bundleIdentifier": "rl.esign.YYYSign.co",
-            "developerName": "yyy",
-            "version": "3.4.0",
-            "versionDate": "2021-04-04T22:00:00+08:00",
-            "versionDescription": "修复部分签名问题 \n修复注入dylib问题\n修复unc0ver卡9\n修复证书状态检测错误\nFixed problems with dylib injection\nfix unc0ver crash on step 9\nfix cert status bug\nsupport app sources unlock",
-            "downloadURL": "https://esign.lanzoui.com/iZt03nntwzc",
-            "localizedDescription": "轻松签是一款免越狱可给ipa签名的工具，具有注入库，去库等功能。",
-            "iconURL": "https://esign.yyyue.xyz/ESignLogo200.png",
-            "tintColor": "018084",
-            "isLanZouCloud": 1,
-            "size": 2475295
-        }
-    ]
-}
+"name": "轻松签-ESign",
+"bundleIdentifier": "p3.xyz.yyyue.esign",
+"developerName": "yyy",
+"version": "4.4.0",
+"versionDate": "2022-03-12T18:00:00+08:00",
+"versionDescription": "超大应用签名优化\n下载管理优化\nbug修复",
+"downloadURL": "https://esign.lanzoub.com/iyK2m01d4nqd",
+"localizedDescription": "轻松签是一款免越狱可给ipa签名的工具，具有注入库，去库等功能。",
+"iconURL": "https://esign.yyyue.xyz/ESignLogo200.png",
+"tintColor": "018084",
+"isLanZouCloud": 1,
+"size": 4216246
+		
