@@ -1,26 +1,23 @@
 [
     {
-        "id": "1",
-        "name": "تطبيق 1",
+        "name": "Snapchat",
         "version": "1.0",
-        "description": "هذا وصف للتطبيق 1",
-        "imageUrl": "https://example.com/image1.png",
+        "description": "وصف قصير لتطبيق .",
+        "imageUrl": "https://raw.githubusercontent.com/doo3n/ahmed/ceda5e86a2cf8374d002fa64cbec16c0da3f2bc1/snapchat%403x.png",
         "installButtonLabel": "تثبيت"
     },
     {
-        "id": "2",
-        "name": "تطبيق 2",
+        "name": "Alrajhi Bank",
         "version": "2.0",
-        "description": "هذا وصف للتطبيق 2",
-        "imageUrl": "https://example.com/image2.png",
+        "description": "وصف قصير لتطبيق .",
+        "imageUrl": "https://raw.githubusercontent.com/doo3n/ahmed/ceda5e86a2cf8374d002fa64cbec16c0da3f2bc1/alrajhi%20bank%403x.png",
         "installButtonLabel": "تثبيت"
     },
     {
-        "id": "3",
-        "name": "تطبيق 3",
-        "version": "3.0",
-        "description": "هذا وصف للتطبيق 3",
-        "imageUrl": "https://example.com/image3.png",
+        "name": "Kayan Ahmed",
+        "version": "1.5",
+        "description": "وصف قصير لتطبيق .",
+        "imageUrl": "https://raw.githubusercontent.com/doo3n/ahmed/ceda5e86a2cf8374d002fa64cbec16c0da3f2bc1/icons8-sun.gif",
         "installButtonLabel": "تثبيت"
     }
 ]
