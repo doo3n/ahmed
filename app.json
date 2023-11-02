@@ -2,36 +2,36 @@
     {
         "name": "Snapchat",
         "version": "1.0",
-        "description": "وصف قصير لتطبيق .",
+        "description": "icloud.and.arrow.down",
         "imageUrl": "https://raw.githubusercontent.com/doo3n/ahmed/ceda5e86a2cf8374d002fa64cbec16c0da3f2bc1/snapchat%403x.png",
-        "installButtonLabel": "تثبيت"
+        "installButtonLabel": "GET"
     },
     {
         "name": "Alrajhi Bank",
         "version": "2.0",
-        "description": "وصف قصير لتطبيق .",
+        "description": "icloud.and.arrow.down",
         "imageUrl": "https://raw.githubusercontent.com/doo3n/ahmed/ceda5e86a2cf8374d002fa64cbec16c0da3f2bc1/alrajhi%20bank%403x.png",
-        "installButtonLabel": "تثبيت"
+        "installButtonLabel": "GET"
     },
     {
         "name": "Kayan Ahmed",
         "version": "1.5",
-        "description": "وصف قصير لتطبيق .",
+        "description": "icloud.and.arrow.down",
         "imageUrl": "https://raw.githubusercontent.com/doo3n/ahmed/ceda5e86a2cf8374d002fa64cbec16c0da3f2bc1/icons8-sun.gif",
-        "installButtonLabel": "تثبيت"
+        "installButtonLabel": "GET"
     },
     {
         "name": "Kayan Ahmed",
         "version": "1.5",
-        "description": "وصف قصير لتطبيق .",
+        "description": "icloud.and.arrow.down",
         "imageUrl": "https://raw.githubusercontent.com/doo3n/ahmed/ceda5e86a2cf8374d002fa64cbec16c0da3f2bc1/icons8-sun.gif",
-        "installButtonLabel": "تثبيت"
+        "installButtonLabel": "GET"
     },
     {
         "name": "Kayan Ahmed",
         "version": "1.5",
-        "description": "وصف قصير لتطبيق .",
+        "description": "icloud.and.arrow.down",
         "imageUrl": "https://raw.githubusercontent.com/doo3n/ahmed/ceda5e86a2cf8374d002fa64cbec16c0da3f2bc1/icons8-sun.gif",
-        "installButtonLabel": "تثبيت"
+        "installButtonLabel": "GET"
     }
 ]
