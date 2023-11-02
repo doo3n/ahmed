@@ -3,21 +3,21 @@
         "name": "تطبيق 1",
         "version": "1.0",
         "description": "وصف قصير لتطبيق 1.",
-        "imageUrl": "https://example.com/images/app1.png",
+        "imageUrl": "https://raw.githubusercontent.com/doo3n/ahmed/ceda5e86a2cf8374d002fa64cbec16c0da3f2bc1/snapchat%403x.png",
         "installButtonLabel": "تثبيت"
     },
     {
         "name": "تطبيق 2",
         "version": "2.0",
         "description": "وصف قصير لتطبيق 2.",
-        "imageUrl": "https://example.com/images/app2.png",
+        "imageUrl": "https://raw.githubusercontent.com/doo3n/ahmed/ceda5e86a2cf8374d002fa64cbec16c0da3f2bc1/alrajhi%20bank%403x.png",
         "installButtonLabel": "تثبيت"
     },
     {
         "name": "تطبيق 3",
         "version": "1.5",
         "description": "وصف قصير لتطبيق 3.",
-        "imageUrl": "https://example.com/images/app3.png",
+        "imageUrl": "https://raw.githubusercontent.com/doo3n/ahmed/ceda5e86a2cf8374d002fa64cbec16c0da3f2bc1/icons8-sun.gif",
         "installButtonLabel": "تثبيت"
     }
 ]
