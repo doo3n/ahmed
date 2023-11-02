@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "name": "تطبيق 1",
         "version": "1.0",
         "description": "هذا وصف للتطبيق 1",
@@ -7,6 +8,7 @@
         "installButtonLabel": "تثبيت"
     },
     {
+        "id": 2,
         "name": "تطبيق 2",
         "version": "2.0",
         "description": "هذا وصف للتطبيق 2",
@@ -14,6 +16,7 @@
         "installButtonLabel": "تثبيت"
     },
     {
+        "id": 3,
         "name": "تطبيق 3",
         "version": "3.0",
         "description": "هذا وصف للتطبيق 3",
@@ -21,4 +24,3 @@
         "installButtonLabel": "تثبيت"
     }
 ]
-
