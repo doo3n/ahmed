@@ -1,7 +1,14 @@
-{
-    "name": "اسم88 التطبيق",
-    "version": "1.0",
-    "description": "هذا التطبيق رائع ومفيد. يمكنك استخدامه للقيام بأمور متعددة.",
-    "imageUrl": "https://example.com/app-image.jpg",
-    "installButtonLabel": "تثبيت"
-}
+[
+  {
+    "id": 1,
+    "name": "تطبيق 1",
+    "description": "وصف تطبيق 1",
+    "icon": "icon1.png"
+  },
+  {
+    "id": 2,
+    "name": "تطبيق 2",
+    "description": "وصف تطبيق 2",
+    "icon": "icon2.png"
+  }
+]
